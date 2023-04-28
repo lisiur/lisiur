@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lisiur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisiur" />
-</a>
+![stats](https://github-readme-stats.vercel.app/api?username=lisiur&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisiur&hide=html&layout=compact)
+
